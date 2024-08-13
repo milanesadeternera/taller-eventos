@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     function alertaBoton(){
         alert("Hola soy el botón!");
-        event.stopPropagation()
+        event.stopPropagation();
     }
 
 });
